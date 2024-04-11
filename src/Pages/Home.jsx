@@ -73,7 +73,7 @@ console.log("dataaaaaaaaaaaaa..",content?.items)
       <InnerContainer>
 
 
-<InnerContainer as={"img"} src=""/>
+<InnerContainer as={"img"} src="https://media.evo.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581606140/evo/2020/02/Ford%20Mustang%20Mach%201-5.jpg"/>
 
 
   
