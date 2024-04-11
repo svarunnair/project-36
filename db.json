@@ -1,0 +1,20 @@
+{
+    "data":[
+      {
+        "name": "varun",
+        "age": "26"
+      },
+      {
+        "name": "Arun",
+        "age": "24"
+      },
+       {
+            "name":"jothi",
+            "age":"18"
+        },
+         {
+            "name":"jojo",
+            "age":"33"
+        }
+    ]
+}
